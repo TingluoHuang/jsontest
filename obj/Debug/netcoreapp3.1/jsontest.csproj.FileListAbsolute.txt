@@ -1,0 +1,13 @@
+/Users/ting/Desktop/jsontest/bin/Debug/netcoreapp3.1/jsontest
+/Users/ting/Desktop/jsontest/bin/Debug/netcoreapp3.1/jsontest.deps.json
+/Users/ting/Desktop/jsontest/bin/Debug/netcoreapp3.1/jsontest.runtimeconfig.json
+/Users/ting/Desktop/jsontest/bin/Debug/netcoreapp3.1/jsontest.runtimeconfig.dev.json
+/Users/ting/Desktop/jsontest/bin/Debug/netcoreapp3.1/jsontest.dll
+/Users/ting/Desktop/jsontest/bin/Debug/netcoreapp3.1/jsontest.pdb
+/Users/ting/Desktop/jsontest/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ting/Desktop/jsontest/obj/Debug/netcoreapp3.1/jsontest.csprojAssemblyReference.cache
+/Users/ting/Desktop/jsontest/obj/Debug/netcoreapp3.1/jsontest.AssemblyInfoInputs.cache
+/Users/ting/Desktop/jsontest/obj/Debug/netcoreapp3.1/jsontest.AssemblyInfo.cs
+/Users/ting/Desktop/jsontest/obj/Debug/netcoreapp3.1/jsontest.csproj.CopyComplete
+/Users/ting/Desktop/jsontest/obj/Debug/netcoreapp3.1/jsontest.dll
+/Users/ting/Desktop/jsontest/obj/Debug/netcoreapp3.1/jsontest.pdb
